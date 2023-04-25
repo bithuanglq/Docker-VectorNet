@@ -1,5 +1,5 @@
 This is a docker version of [this](https://github.com/Liang-ZX/VectorNet), fixing some bugs and 
-organize the necessary compilation and running environment to quickly get started with vectornet.
+organize the necessary compilation and running environment to quickly get started with [vectornet](https://arxiv.org/pdf/2005.04259.pdf), a trajectory prediction network for autonomous vehicles.
 
 # 1. Prerequist
 [ubuntu 20.04](https://releases.ubuntu.com/20.04/)
