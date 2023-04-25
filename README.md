@@ -43,4 +43,4 @@ python train.py
 
 
 # Acknowledge
-Thanks to this [repo](https://github.com/Liang-ZX/VectorNet), and [dataset](https://github.com/argoverse/argoverse-api).
+Thanks to this [repo](https://github.com/Liang-ZX/VectorNet), [dataset](https://github.com/argoverse/argoverse-api), and [paper](https://arxiv.org/pdf/2005.04259.pdf).
