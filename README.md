@@ -1,8 +1,8 @@
 This is a docker version of [this](https://github.com/Liang-ZX/VectorNet), fixing some bugs and 
 organize the necessary compilation and running environment to quickly get started with [VectorNet](https://arxiv.org/pdf/2005.04259.pdf), a trajectory prediction network for autonomous vehicles.
 
-# 1. Prerequist
-[ubuntu 20.04](https://releases.ubuntu.com/20.04/)
+
+
 
 # 2. Build project
 ## 2.1 Create directory and clone project
@@ -42,5 +42,5 @@ python train.py
 
 
 
-# Ackownledge
+# Acknowledge
 Thanks to this [repo](https://github.com/Liang-ZX/VectorNet), and [dataset](https://github.com/argoverse/argoverse-api).
