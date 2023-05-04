@@ -31,7 +31,7 @@ docker exec -it container_name /bin/bash
 ```
 
 ### 3.2 Download dataset
-In your host machine, put [training-dataset](https://s3.amazonaws.com/argoai-argoverse/forecasting_train_v1.1.tar.gz) in ___/Vectornet_ws/VectorNet/Dataset/train/___, overwriting _/data_ diretory.
+In your host machine, put [Argoverse-forecasting-training-dataset](https://www.argoverse.org/av1.html#download-link) in ___/Vectornet_ws/VectorNet/Dataset/train/___, overwriting _/data_ diretory.
 The files in _/data_ is structured data with suffix .csv
 
 
